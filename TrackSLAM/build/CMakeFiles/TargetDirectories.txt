@@ -1,0 +1,1 @@
+/home/smi/Projects/ECMR/build/CMakeFiles/kinect.dir
